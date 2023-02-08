@@ -15,4 +15,4 @@ Open your browser in ingonito mode and go to linkedin website.Filter according t
 ```
 >> python scrape.py
 ```
-If this is helpful, don't forget put as star
+If this is helpful,please don't forget put as star.It means alot to me.
