@@ -1,5 +1,5 @@
-# How to scrape linkedin job-posting
-This scripe is used to scrape job listing on linkedin
+# How to scrape linkedin job-postings
+This scripe is used to scrape job postings on linkedin
 ## Prerequisite
 1. Beautiful soup
 2. Requests
